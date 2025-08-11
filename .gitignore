@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# data
+data/2025-07-29 17_45 wrt-nsga-feo Attendance Report - Attendees.csv
+data/2025-07-30 17_50 kan-ptwt-ehz Attendance Report - Attendees.csv
+data/Attendance_Template_v3 - Mentor Log.csv
+data/Attendance_Template_v3 - Mentors.csv
+data/Attendance_Template_v3 - Staff Log.csv
+data/Attendance_Template_v3 - Staff.csv
