@@ -1,0 +1,17 @@
+Sheet,Purpose,Required Columns,Optional ,Best Practices,Updating Template
+,,,,,
+Attendance Sheet (Per class tab),Weekly record of attendance for a single class,"First Name, Last Name, Alternate Name, Class Name","Class night, region",Match roster names exactly - or create a name map,
+,,,,Each class has own tab,
+,,,,"Keep header row loacked and clean (no merged cells, emojis, extra formatting)",
+Meet Codes,Mapping,"Meet Code, Class Name, Cohort",,"Never remove rows from MeetCodes that are in use
+If you want to disable a meet code:  Add a Status column (e.g. active, inactive)
+Or comment it out but leave it in the sheet",
+Meta,Document last processed,,,Be sure to set start date for first run to whatever time frame it needs to start,Start fresh - delete previous info
+,,,,,
+Not Found Log,Document names not on any list,"Name, Class Name, Date, Meet Code, Timestamp, status",,,
+Mentor,Master list of mentors,"First Name, Last Name, email",,,
+Mentor Log,Auto log of mentor attendance,,,,
+Staff ,Master list of Staff,"First Name, last name",,,
+Staff Log,Auto log of staff attendance,,,,
+Debug Log,,,,,
+Processed Files Log,,,,,
